@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+    <body>
+      <h1> Heading for lab 2 </h1>
+        <p> here is some text in a paragraph </p>
+        <p> here is some more text in a different paragraph </p>
+    </body>
+</html>
+
